@@ -8,4 +8,4 @@ def polygon_area(vertices):
 
 
 if __name__ == "__main__":
-    a=polygon_area(polygon)
+    a = polygon_area(polygon)
